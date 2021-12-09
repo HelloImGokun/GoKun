@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Gokun-coder
 - 👀 I’m interested in  code
-- 🌱 I’m currently learning C# and font-end
+- 🌱 I’m currently learning C#, typescript and i using cocos and unity
 - 💞️ I’m looking to collaborate on spirit of learning
 - 📫 How to reach me : click my wall :V
 
